@@ -14,6 +14,7 @@ int main () {
     double distance, max = 0;
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
+            if (i == j) continue;
             distance = sqrt(pow(x[j] - x[i], 2) + pow(y[j] - y[i], 2));
             if (distance > max) max = distance;
         }
