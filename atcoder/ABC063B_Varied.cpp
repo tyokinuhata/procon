@@ -13,7 +13,9 @@ int main () {
             if (i != j && s[i] == s[j]) {
                 flag = true;
             }
+            if (flag == true) break;
         }
+        if (flag == true) break;
     }
 
     if (flag == true) cout << "no" << endl;
