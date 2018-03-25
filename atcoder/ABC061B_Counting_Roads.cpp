@@ -9,7 +9,7 @@ int main () {
     int a[m], b[m];
     for (int i = 0; i < m; i++) cin >> a[i] >> b[i];
 
-    int road[60] = {0};
+    int road[50] = {0};
     for (int i = 0; i < m; i++) {
         road[a[i] - 1]++;
         road[b[i] - 1]++;
