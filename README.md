@@ -22,6 +22,22 @@
 
 [JOI非公式難易度表](https://docs.google.com/spreadsheets/d/1zXDtkFmskO5NSxkqck8uDbcJtAhTVZtzPh2hLw64Sw4/edit?pli=1&pli=1#gid=0)
 
+### その他コンテスト及びオンラインジャッジ
+
+[Codeforces](http://codeforces.com/)
+
+[topcoder](https://www.topcoder.com/community/competitive-programming/)
+
+[CS Academy](https://csacademy.com/)
+
+[yukicoder](https://yukicoder.me/)
+
+[POJ](http://poj.org/)
+
+[UVa](https://uva.onlinejudge.org/)
+
+[SPOJ](http://www.spoj.com/)
+
 ### カレンダー
 
 [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar)
