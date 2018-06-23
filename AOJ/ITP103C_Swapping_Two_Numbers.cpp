@@ -9,7 +9,7 @@ int main () {
 
         if (x == 0 && y == 0) break;
         
-        if (x > y) cout << y << " " << x << endl;
-        else cout << x << " " << y << endl;
+        if (x > y) cout << y << ' ' << x << endl;
+        else cout << x << ' ' << y << endl;
     }
 }

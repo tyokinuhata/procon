@@ -11,14 +11,9 @@ int main () {
         
         if (op == '?') break;
 
-        if (op == '+') {
-            cout << a + b << endl;
-        } else if (op == '-') {
-            cout << a - b << endl;
-        } else if (op == '*') {
-            cout << a * b << endl;
-        } else {
-            cout << a / b << endl;
-        }
+        if (op == '+') cout << a + b << endl;
+        else if (op == '-') cout << a - b << endl;
+        else if (op == '*') cout << a * b << endl;
+        else cout << a / b << endl;
     }
 }

@@ -7,9 +7,8 @@ int main () {
 
     cin >> a >> b >> c;
 
-    for (int i = a; i <= b; i++) {
+    for (int i = a; i <= b; i++)
         if (c % i == 0) cnt++;
-    }
 
     cout << cnt << endl;
 }

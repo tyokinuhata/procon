@@ -16,5 +16,5 @@ int main () {
 
         sum += a;
     }
-    cout << min << " " << max << " " << sum << endl;
+    cout << min << ' ' << max << ' ' << sum << endl;
 }

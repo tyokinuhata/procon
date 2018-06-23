@@ -7,11 +7,7 @@ int main () {
 
     cin >> a >> b;
 
-    if (a < b) {
-        cout << "a < b" << endl;
-    } else if (a > b) {
-        cout  << "a > b" << endl;
-    } else {
-        cout << "a == b" << endl;
-    }
+    if (a < b) cout << "a < b" << endl;
+    else if (a > b) cout  << "a > b" << endl;
+    else cout << "a == b" << endl;
 }

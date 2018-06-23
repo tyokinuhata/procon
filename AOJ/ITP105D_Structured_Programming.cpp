@@ -11,9 +11,8 @@ bool include3(int n) {
 }
 
 void call(int n) {
-    for (int i = 1; i<= n; i++) {
+    for (int i = 1; i<= n; i++)
         if (i % 3 == 0 || include3(i)) cout << ' ' << i;
-    }
     cout << endl;
 }
 

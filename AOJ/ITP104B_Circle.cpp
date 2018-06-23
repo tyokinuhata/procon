@@ -8,5 +8,5 @@ int main () {
 
     cin >> r;
 
-    cout << fixed << r * r * M_PI << " " << 2 * r * M_PI << endl;
+    cout << fixed << r * r * M_PI << ' ' << 2 * r * M_PI << endl;
 }

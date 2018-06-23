@@ -7,11 +7,8 @@ int main () {
     cin >> n;
 
     bool cards[4][13];
-    for (int i = 0; i < 4; i++) {
-        for (int j = 0; j < 13; j++) {
-            cards[i][j] = false;
-        }
-    }
+    for (int i = 0; i < 4; i++)
+        for (int j = 0; j < 13; j++) cards[i][j] = false;
 
     char suit;
     int rank;

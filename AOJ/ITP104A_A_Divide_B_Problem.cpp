@@ -7,5 +7,5 @@ int main () {
 
     cin >> a >> b;
 
-    cout << a / b << " " << a % b << " " << fixed << (double)a / b << endl;
+    cout << a / b << ' ' << a % b << ' ' << fixed << (double)a / b << endl;
 }
