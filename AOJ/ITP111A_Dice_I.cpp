@@ -13,7 +13,7 @@ class Dice {
         rotate(0, 2, 5, 3);
     }
     void rotateZ () {
-        rotate(0, 1, 5, 4);
+        rotate(1, 2, 4, 3);
     }
     void rotate (int a, int b, int c, int d) {
         int t = face[a];
