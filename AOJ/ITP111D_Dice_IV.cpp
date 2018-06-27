@@ -53,8 +53,8 @@ bool check () {
 
 int main () {
     cin >> n;
-        for (int i = 0; i < n; i++)
-            for (int j = 0; j < 6; j++) cin >> d[i].face[j];
+    for (int i = 0; i < n; i++)
+        for (int j = 0; j < 6; j++) cin >> d[i].face[j];
     
     if (check()) cout << "Yes" << endl;
     else cout << "No" << endl;
